@@ -33,6 +33,7 @@
             <div style="font-family: 'Roboto', sans-serif; font-size:11px; font-weight: bold;">Cell : 73050 92278 </div>
         </div>
     </div>
+    <!--second attempt-->
     <div style="display: flex; width: 100%;">
         <div style="width:10%; text-align:center; padding-left:15px;">
             <img src="images/god1.jpg" style="max-width:90%;">
